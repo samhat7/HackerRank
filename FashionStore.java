@@ -6,7 +6,15 @@ Developed By: Dattaprasad Mundada TYIT student from WCE Sangli
 privadoUrl=https://privado.ai
 jiraUrl: https://privado.jira.com
 fdyghchtg = http://jygughjb.jhgvj
-
+/*
+dssd
+dsd
+sd
+s
+ds
+ds
+d
+*/
 import java.io.*;
 import java.util.*;
 class FashionStore{
