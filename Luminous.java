@@ -4,7 +4,7 @@ Byteland county is very famous for luminous jewels. Luminous jewels are used in 
 
 Damjibhai and Shamjibhai are two jeweler friends. They decide to play a simple game. The game comprises of removing the jewels for polishing, turn by turn. Once a jewel is removed from the necklace, all other jewels of the same colour are assumed to be removed for polishing from the necklace. The player who polished the most jewels, wins. Damjibhai being more senior, always gets a chance to play first (remove jewel from necklace first). If both players play optimally, find out if Damjibhai can win. The following are the rules of their game
 
- Jewels can only be removed for polishing from either end of the necklace (i.e. head or tail)
+ Jewels can only be removed dsdsdsdsdfor polishing from either end of the necklace (i.e. head or tail)
  Once a jewel type is removed from the necklace, all other instances of the same jewel type is treated as polished by the person who removed the jewel
  For purpose of this problem, we have represented the necklace as a string and each character of the string is a Luminous Jewel
 
